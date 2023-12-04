@@ -5,7 +5,8 @@ nota: las validaciones para registrar el usuario funcionan pero se muestran en l
 GET: 
     http://localhost:8091/usuarios
 
-## POST: 
+
+POST: 
     http://localhost:8091/usuarios/registro
   
     {
